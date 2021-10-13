@@ -1,2 +1,2 @@
 # UDPClientServer
-UDP client and server
+Android UDP client and server
